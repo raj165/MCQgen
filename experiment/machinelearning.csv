@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the field of study in artificial intelligence concerned with the development and study of statistical algorithms that can perform tasks without explicit instructions?,a: Machine learning (ML) | b: Deep learning (DL) | c: Large language models (LLMs) | d: Artificial neural networks (ANNs),a
+Which type of machine learning method is based on artificial neural networks with representation learning?,a: Supervised learning | b: Unsupervised learning | c: Semi-supervised learning | d: Deep learning,d
+What do deep learning algorithms use multiple layers for?,a: To extract higher-level features from raw input | b: To identify edges in image processing | c: To achieve general-purpose language understanding | d: To learn billions of parameters during training,a
+What are the major challenges of large language models (LLMs)?,a: Factual errors and language bias | b: Gender bias and racial bias | c: Political bias and factual errors | d: Language bias and gender bias,a
+Which are notable examples of large language models?,a: GPT-3.5 and GPT-4 | b: PaLM and LLaMA | c: BLOOM and Ernie 3.0 Titan | d: Claude 2 and GPT-3,a
