@@ -9,7 +9,7 @@ from langchain.callbacks import get_openai_callback
 from src.MCQgenerator.logger import logging
 from src.MCQgenerator.MCQgenerator import generate_evaluate_chain
 
-with open('C:/Users/raj.bhatt/mcqgen/Response.json', 'r') as file:
+with open('C:/Users/raj.bhatt/MCQgen/Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 # creating a title for the app
